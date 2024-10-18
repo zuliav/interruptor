@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//zuliani av
 int on(int interruptor);
 int off(int interruptor);
 
